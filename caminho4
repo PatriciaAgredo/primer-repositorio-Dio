@@ -1,0 +1,4 @@
+caminho da aula 7 de KAUE
+primeiro entrar na meu arquivo onde eu vou guardar meus repositorios
+git remote add origin (link do github do repositorio)
+git push origin master
